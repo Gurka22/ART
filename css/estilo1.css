@@ -1,0 +1,16 @@
+@media screen and (max-width:500px)
+{
+    #caja1
+  { 
+      background-color:red;
+  }
+   #caja2
+  {
+      background-color:rgba(49, 143, 167, 0.884);
+  }
+   img
+   {
+       width:30%; height:30%;
+       box-shadow: 8px 10px 13px;
+   }
+}   
